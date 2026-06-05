@@ -1,8 +1,7 @@
 # kitsune
 Web platform to discover where anime and TV series are available, manage watchlists, favorites and connect with other users.
-# WatchAtlas
 
-WatchAtlas is a web platform that helps users discover where anime and TV series are available across different streaming services.
+Kitsune is a web platform that helps users discover where anime and TV series are available across different streaming services.
 
 Users can search for content, check availability on platforms such as Netflix, Crunchyroll, Prime Video or Disney+, and access the selected service directly. The application also includes personal watchlists, favorites, user profiles, social features and recommendation tools.
 
